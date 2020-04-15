@@ -26,6 +26,13 @@ public class S0302WebAppWithSpringBootApplication {
 		 * servlet container, by overriding the configure() method.
 		 * this is need for the thrid party server deployment of the spring boot application
 		 */
+		
+		/*
+		 * 6. Create war file from maven project in the pom.xml -- overview pakaging is
+		 * war check that we need jdk insted of jre
+		 */
+		
+		
 	}
 
 }
